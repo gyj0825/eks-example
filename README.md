@@ -1,2 +1,2 @@
 # eks-example
-Hello World2
+Hello
